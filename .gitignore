@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/EverestAPI/obj/Debug/net7.0/EverestAPI.csproj.AssemblyReference.cache
